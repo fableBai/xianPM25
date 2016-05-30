@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent" android:id="@+id/aboutRoot"  
+  android:layout_marginLeft="10dip" android:layout_marginRight="10dip"
+  android:layout_marginTop="10dip" android:layout_marginBottom="10dip" 
+  android:singleLine="false"
+  android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="false"
+        android:orientation="vertical" >
+      		<TextView
+	          android:id="@+id/Version_info"
+	          android:layout_width="wrap_content"
+	          android:layout_height="wrap_content"
+	          android:layout_marginRight="2dip"
+	          android:text="@string/version_info"
+	          android:textStyle="bold" 
+	          android:textSize="20sp" >
+			</TextView>
+    		<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" 
+        		android:layout_marginRight="2dip" android:id="@+id/txtVersion" 
+        		android:text="@string/version"></TextView>
+	</LinearLayout>
+	
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginBottom="10dip"
+        android:layout_marginTop="20dip"
+        android:singleLine="false"
+        android:orientation="vertical" >
+
+        <LinearLayout android:orientation="horizontal" android:layout_height="wrap_content" 
+            android:singleLine="false" android:layout_width="wrap_content">
+            <TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:singleLine="false"
+                android:layout_marginRight="2dip" android:text="@string/copyright">
+            </TextView>
+        </LinearLayout>
+        
+       
+
+    </LinearLayout>
+
+</LinearLayout>

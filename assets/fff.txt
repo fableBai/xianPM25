@@ -1,0 +1,272 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<title>信息浏览</title>
+<link href="_template/default/style.css" rel="stylesheet" type="text/css" />
+<link href="kqzl_manage/mycss.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+-->
+</style><head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+</head>
+
+<body>
+
+
+
+
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="1" class="text" style=" margin-top:5px; padding-top:5px;">
+  
+  
+  <tr >
+    <td width="20%" height="25" rowspan="2" align="center" bgcolor="#E3EFF2" ><b><strong>点位名称</strong></b></td>
+    <td colspan="7" align="center" bgcolor="#D3FFCA"  height="25" style=" padding:2px;"><strong>空气质量指数</strong></td>
+    <td width="10%" rowspan="2" align="center" bgcolor="#D3FFCA" ><strong>首要<br />污染物</strong></td>
+  </tr>
+  <tr >
+    <td width="10%"  align="center" bgcolor="#D3FFCA" ><strong>SO<sub>2</sub></strong></td>
+    <td width="10%" align="center" bgcolor="#D3FFCA" ><strong>NO<sub>2</sub></strong></td>
+    <td width="10%" align="center" bgcolor="#D3FFCA" ><strong>PM<sub>10</sub></strong></td>
+     <td width="10%" align="center" bgcolor="#D3FFCA" ><strong>CO</strong></td>
+      <td width="10%" align="center" bgcolor="#D3FFCA" ><strong>O<sub>3</sub><br />1小时</strong></td>
+        <td width="10%" align="center" bgcolor="#D3FFCA" ><strong>O<sub>3</sub><br/>8小时</strong></td>
+         <td width="10%" align="center" bgcolor="#D3FFCA" ><strong>PM<sub>2.5</sub></strong></td>
+  </tr>
+  
+  
+  <tr >
+    <td height="25" align="center" bgcolor="#f6fafb"  style=" padding-top:2px; padding-bottom:1px;">高压开关厂&nbsp;</td>
+    
+    <td height="25" align="center" bgcolor="#E6FFE1" >45</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" ></td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >364</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >24</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >27</td>
+     <td height="20" align="center" bgcolor="#E6FFE1" >37</td>
+      <td height="20" align="center" bgcolor="#E6FFE1" >112</td>
+      
+    <td height="20" align="center" bgcolor="#E6FFE1"  nowrap="nowrap" >严重</td>
+  </tr>
+  
+  
+  <tr >
+    <td height="25" align="center" bgcolor="#f6fafb"  style=" padding-top:2px; padding-bottom:1px;">兴庆小区&nbsp;</td>
+    
+    <td height="25" align="center" bgcolor="#E6FFE1" ></td>
+    <td height="20" align="center" bgcolor="#E6FFE1" ></td>
+    <td height="20" align="center" bgcolor="#E6FFE1" ></td>
+    <td height="20" align="center" bgcolor="#E6FFE1" ></td>
+    <td height="20" align="center" bgcolor="#E6FFE1" ></td>
+     <td height="20" align="center" bgcolor="#E6FFE1" ></td>
+      <td height="20" align="center" bgcolor="#E6FFE1" ></td>
+      
+    <td height="20" align="center" bgcolor="#E6FFE1"  nowrap="nowrap" >NA</td>
+  </tr>
+  
+  
+  <tr >
+    <td height="25" align="center" bgcolor="#f6fafb"  style=" padding-top:2px; padding-bottom:1px;">纺织城&nbsp;</td>
+    
+    <td height="25" align="center" bgcolor="#E6FFE1" >31</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >60</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >466</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >30</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >20</td>
+     <td height="20" align="center" bgcolor="#E6FFE1" >25</td>
+      <td height="20" align="center" bgcolor="#E6FFE1" >190</td>
+      
+    <td height="20" align="center" bgcolor="#E6FFE1"  nowrap="nowrap" >严重</td>
+  </tr>
+  
+  
+  <tr >
+    <td height="25" align="center" bgcolor="#f6fafb"  style=" padding-top:2px; padding-bottom:1px;">小寨&nbsp;</td>
+    
+    <td height="25" align="center" bgcolor="#E6FFE1" >34</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >47</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >340</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >39</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >22</td>
+     <td height="20" align="center" bgcolor="#E6FFE1" >26</td>
+      <td height="20" align="center" bgcolor="#E6FFE1" >92</td>
+      
+    <td height="20" align="center" bgcolor="#E6FFE1"  nowrap="nowrap" >严重</td>
+  </tr>
+  
+  
+  <tr >
+    <td height="25" align="center" bgcolor="#f6fafb"  style=" padding-top:2px; padding-bottom:1px;">市人民体育场&nbsp;</td>
+    
+    <td height="25" align="center" bgcolor="#E6FFE1" >52</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >47</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >500</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >42</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >26</td>
+     <td height="20" align="center" bgcolor="#E6FFE1" >34</td>
+      <td height="20" align="center" bgcolor="#E6FFE1" >110</td>
+      
+    <td height="20" align="center" bgcolor="#E6FFE1"  nowrap="nowrap" >严重</td>
+  </tr>
+  
+  
+  <tr >
+    <td height="25" align="center" bgcolor="#f6fafb"  style=" padding-top:2px; padding-bottom:1px;">高新西区&nbsp;</td>
+    
+    <td height="25" align="center" bgcolor="#E6FFE1" >49</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >70</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >454</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >31</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >18</td>
+     <td height="20" align="center" bgcolor="#E6FFE1" >24</td>
+      <td height="20" align="center" bgcolor="#E6FFE1" >110</td>
+      
+    <td height="20" align="center" bgcolor="#E6FFE1"  nowrap="nowrap" >严重</td>
+  </tr>
+  
+  
+  <tr >
+    <td height="25" align="center" bgcolor="#f6fafb"  style=" padding-top:2px; padding-bottom:1px;">经开区&nbsp;</td>
+    
+    <td height="25" align="center" bgcolor="#E6FFE1" >15</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >38</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >411</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >28</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >24</td>
+     <td height="20" align="center" bgcolor="#E6FFE1" >33</td>
+      <td height="20" align="center" bgcolor="#E6FFE1" >112</td>
+      
+    <td height="20" align="center" bgcolor="#E6FFE1"  nowrap="nowrap" >严重</td>
+  </tr>
+  
+  
+  <tr >
+    <td height="25" align="center" bgcolor="#f6fafb"  style=" padding-top:2px; padding-bottom:1px;">长安区&nbsp;</td>
+    
+    <td height="25" align="center" bgcolor="#E6FFE1" >56</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >35</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >474</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" ></td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >18</td>
+     <td height="20" align="center" bgcolor="#E6FFE1" >22</td>
+      <td height="20" align="center" bgcolor="#E6FFE1" >98</td>
+      
+    <td height="20" align="center" bgcolor="#E6FFE1"  nowrap="nowrap" >严重</td>
+  </tr>
+  
+  
+  <tr >
+    <td height="25" align="center" bgcolor="#f6fafb"  style=" padding-top:2px; padding-bottom:1px;">阎良区&nbsp;</td>
+    
+    <td height="25" align="center" bgcolor="#E6FFE1" >25</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" ></td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >258</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >26</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >6</td>
+     <td height="20" align="center" bgcolor="#E6FFE1" >7</td>
+      <td height="20" align="center" bgcolor="#E6FFE1" >114</td>
+      
+    <td height="20" align="center" bgcolor="#E6FFE1"  nowrap="nowrap" >重度</td>
+  </tr>
+  
+  
+  <tr >
+    <td height="25" align="center" bgcolor="#f6fafb"  style=" padding-top:2px; padding-bottom:1px;">临潼区&nbsp;</td>
+    
+    <td height="25" align="center" bgcolor="#E6FFE1" >40</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >23</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >296</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >25</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >25</td>
+     <td height="20" align="center" bgcolor="#E6FFE1" >32</td>
+      <td height="20" align="center" bgcolor="#E6FFE1" >77</td>
+      
+    <td height="20" align="center" bgcolor="#E6FFE1"  nowrap="nowrap" >重度</td>
+  </tr>
+  
+  
+  <tr >
+    <td height="25" align="center" bgcolor="#f6fafb"  style=" padding-top:2px; padding-bottom:1px;">曲江文化集团&nbsp;</td>
+    
+    <td height="25" align="center" bgcolor="#E6FFE1" >54</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >64</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >368</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >45</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >19</td>
+     <td height="20" align="center" bgcolor="#E6FFE1" >23</td>
+      <td height="20" align="center" bgcolor="#E6FFE1" >127</td>
+      
+    <td height="20" align="center" bgcolor="#E6FFE1"  nowrap="nowrap" >严重</td>
+  </tr>
+  
+  
+  <tr >
+    <td height="25" align="center" bgcolor="#f6fafb"  style=" padding-top:2px; padding-bottom:1px;">广运潭&nbsp;</td>
+    
+    <td height="25" align="center" bgcolor="#E6FFE1" >34</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >55</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >500</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >57</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >20</td>
+     <td height="20" align="center" bgcolor="#E6FFE1" >27</td>
+      <td height="20" align="center" bgcolor="#E6FFE1" >133</td>
+      
+    <td height="20" align="center" bgcolor="#E6FFE1"  nowrap="nowrap" >严重</td>
+  </tr>
+  
+  
+  <tr >
+    <td height="25" align="center" bgcolor="#f6fafb"  style=" padding-top:2px; padding-bottom:1px;">草滩&nbsp;</td>
+    
+    <td height="25" align="center" bgcolor="#E6FFE1" >26</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >25</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >164</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >113</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >15</td>
+     <td height="20" align="center" bgcolor="#E6FFE1" >21</td>
+      <td height="20" align="center" bgcolor="#E6FFE1" >102</td>
+      
+    <td height="20" align="center" bgcolor="#E6FFE1"  nowrap="nowrap" >中度</td>
+  </tr>
+  
+  
+  <tr >
+    <td height="25" align="center" bgcolor="#f6fafb"  style=" padding-top:2px; padding-bottom:1px;">全市平均&nbsp;</td>
+    
+    <td height="25" align="center" bgcolor="#E6FFE1" >41</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >49</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >438</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >35</td>
+    <td height="20" align="center" bgcolor="#E6FFE1" >20</td>
+     <td height="20" align="center" bgcolor="#E6FFE1" >26</td>
+      <td height="20" align="center" bgcolor="#E6FFE1" >115</td>
+      
+    <td height="20" align="center" bgcolor="#E6FFE1"  nowrap="nowrap" >严重</td>
+  </tr>
+  
+  
+  <tr >
+    <td height="25" align="center" bgcolor="#f6fafb"  style=" padding-top:2px; padding-bottom:1px;">预报指数&nbsp;</td>
+    
+     <td height="20" colspan="7" align="center" bgcolor="#E6FFE1" >300-350</td>
+    
+    <td height="20" align="center" bgcolor="#E6FFE1"  nowrap="nowrap" >PM10</td>
+  </tr>
+  
+  
+ 
+  <tr>
+    <td height="20" colspan="9" style=" padding :5px;">发布日期：2013-3-10      <a href="sxmpcp_qt.asp?lb=质量日报" target="_blank">历史数据&gt;&gt;</a></td>
+  </tr>
+  <tr><td ></td></tr>
+  
+</table>
+</body>
+</html>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" >
+
+     <LinearLayout
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         
+         android:orientation="horizontal"
+         android:paddingLeft="20dip"
+         android:paddingRight="20dip" >
+
+	    <TextView android:text="@string/city_name" android:id="@+id/city_name"  android:textSize="24sp"
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+	    <TextView
+	        android:id="@+id/poll_state" android:paddingLeft="15dip"
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"
+	        android:text="@string/collect" android:textSize="24sp" />
+	    <LinearLayout
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content" android:gravity="right"
+         android:orientation="horizontal" >
+		    <Button
+	            android:id="@+id/find_table"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content" 
+	            android:text="@string/update_url" />
+	    </LinearLayout>
+	</LinearLayout>
+		<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" 
+	    android:layout_height="wrap_content" android:paddingLeft="20dip" android:paddingRight="20dip">
+		<Spinner  android:id="@+id/city_names"  android:prompt="@string/city_name"
+            android:layout_width="match_parent" 
+	        android:layout_height="wrap_content"/>
+	</LinearLayout> 
+
+
+	<LinearLayout  android:layout_width="wrap_content" android:layout_height="wrap_content" 
+	    android:paddingLeft="15dip" android:paddingRight="15dip"  android:paddingBottom="6dip"  android:paddingTop="6dip"
+	  	android:orientation="horizontal" android:gravity="center_horizontal">
+	    <TextView
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"
+	        android:text="@string/pollutant_SO2" android:textSize="24sp" />
+	    <TextView
+	        android:id="@+id/poll_so2" android:paddingLeft="15dip"
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"
+	        android:text="@string/collect" android:textSize="24sp" />
+	</LinearLayout>
+	
+	<LinearLayout  android:layout_width="wrap_content" android:layout_height="wrap_content" 
+	    android:paddingLeft="15dip" android:paddingRight="15dip"  android:paddingBottom="6dip"  android:paddingTop="6dip"
+	  	android:orientation="horizontal" android:gravity="center_horizontal">
+	    <TextView
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"
+	        android:text="@string/pollutant_NO2" android:textSize="24sp" />
+	    <TextView
+	        android:id="@+id/poll_no2" android:paddingLeft="15dip"
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"
+	        android:text="@string/collect" android:textSize="24sp" />
+	</LinearLayout>
+	
+	<LinearLayout  android:layout_width="wrap_content" android:layout_height="wrap_content" 
+	    android:paddingLeft="15dip" android:paddingRight="15dip"  android:paddingBottom="6dip"  android:paddingTop="6dip"
+	  	android:orientation="horizontal" android:gravity="center_horizontal">
+	    <TextView
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"
+	        android:text="@string/pollutant_PM10" android:textSize="24sp" />
+	    <TextView
+	        android:id="@+id/poll_pm10" android:paddingLeft="15dip"
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"
+	        android:text="@string/collect" android:textSize="24sp" />
+	</LinearLayout>
+	
+	<LinearLayout  android:layout_width="wrap_content" android:layout_height="wrap_content" 
+	    android:paddingLeft="15dip" android:paddingRight="15dip"  android:paddingBottom="6dip"  android:paddingTop="6dip"
+	  	android:orientation="horizontal" android:gravity="center_horizontal">
+	    <TextView
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"
+	        android:text="@string/pollutant_CO" android:textSize="24sp" />
+	    <TextView
+	        android:id="@+id/poll_co" android:paddingLeft="15dip"
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"
+	        android:text="@string/collect" android:textSize="24sp" />
+	</LinearLayout>
+	
+	<LinearLayout  android:layout_width="wrap_content" android:layout_height="wrap_content" 
+	    android:paddingLeft="15dip" android:paddingRight="15dip"  android:paddingBottom="6dip"  android:paddingTop="6dip"
+	  	android:orientation="horizontal" android:gravity="center_horizontal">
+	    <TextView
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"
+	        android:text="@string/pollutant_O3_1" android:textSize="24sp" />
+	    <TextView
+	        android:id="@+id/poll_o31" android:paddingLeft="15dip"
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"
+	        android:text="@string/collect" android:textSize="24sp" />
+	</LinearLayout>
+	
+	<LinearLayout  android:layout_width="wrap_content" android:layout_height="wrap_content" 
+	    android:paddingLeft="15dip" android:paddingRight="15dip"  android:paddingBottom="6dip"  android:paddingTop="6dip"
+	  	android:orientation="horizontal" android:gravity="center_horizontal">
+	    <TextView
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"
+	        android:text="@string/pollutant_O3_8" android:textSize="24sp" />
+	    <TextView
+	        android:id="@+id/poll_o38" android:paddingLeft="15dip"
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"
+	        android:text="@string/collect" android:textSize="24sp" />
+	</LinearLayout>
+	
+	<LinearLayout  android:layout_width="wrap_content" android:layout_height="wrap_content" 
+	    android:paddingLeft="15dip" android:paddingRight="15dip"  android:paddingBottom="6dip"  android:paddingTop="6dip"
+	  	android:orientation="horizontal" android:gravity="center_horizontal">
+	    <TextView
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"
+	        android:text="@string/pollutant_PM25" android:textSize="24sp" />
+	    <TextView
+	        android:id="@+id/poll_pm25" android:paddingLeft="15dip"
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"
+	        android:text="@string/collect" android:textSize="24sp" />
+	</LinearLayout>
+	
+	<LinearLayout  android:layout_width="wrap_content" android:layout_height="wrap_content" 
+	    android:paddingLeft="15dip" android:paddingRight="15dip"  android:paddingBottom="6dip"  android:paddingTop="6dip"
+	  	android:orientation="horizontal" android:gravity="center_horizontal">
+	    <TextView
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"
+	        android:text="@string/pollutant_average" android:textSize="24sp" />
+	    <TextView
+	        android:id="@+id/poll_aver" android:paddingLeft="15dip"
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"
+	        android:text="@string/collect" android:textSize="24sp" />
+	</LinearLayout>
+
+</LinearLayout>
